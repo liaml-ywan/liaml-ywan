@@ -2,4 +2,4 @@
 - 🌍 Currently in Hong Kong
 - 📚 Studying Information Systems and Web Applications at PolyU SPEED
 - 🎓 I also have a degree in Geography from Queen Mary, University of London
-- 🌱 Focusing on Java, php and MySQL at the moment
+- 🌱 Experience in Java, MySQL and Power Virtual Agent
